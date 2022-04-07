@@ -6,6 +6,7 @@ group :development do
   gem 'sinatra'
   gem 'webrick'
   gem 'puma'
+  gem 'sinatra-contrib'
 end
 
 # gem "rails"
